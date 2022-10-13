@@ -12,7 +12,7 @@ export default function Tile1() {
     return (
         <div>
             <MetaTags>
-                <title>Page 1</title>
+                <title>Tile 1</title>
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta property="twitter:site" content="@xcv" />
                 <meta name="twitter:creator" content="@nickbilton" />
