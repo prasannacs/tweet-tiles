@@ -16,6 +16,7 @@ export default function Tile2() {
 
       <head>
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:tile:template" content="1" />
         <meta property="twitter:site" content="@xcv" />
         <meta name="twitter:creator" content="@nickbilton" />
         <meta property="twitter:title" content="A Twitter for My Sister" />
