@@ -19,6 +19,7 @@ function App() {
             <Routes>
               <Route path="/tile1" element={<Tile1 />} />
               <Route path="/tile2" element={<Tile2 />} />
+              <Route path="/tile3" element={<Tile3 />} />
               <Route exact path="/" element={<Tile1 />} />
             </Routes>
           </div>

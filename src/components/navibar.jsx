@@ -27,6 +27,9 @@ export default function NaviBar() {
           <Nav.Link href="/tile2" eventKey="2"><h4>2. Tile 2</h4></Nav.Link>
         </Nav.Item>
         <Nav.Item>
+          <Nav.Link href="/tile3" eventKey="3"><h4>3. Tile 3</h4></Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
           <Nav.Link href="/tile1" eventKey="3"><h4>Help & FAQ</h4></Nav.Link>
         </Nav.Item>
 
