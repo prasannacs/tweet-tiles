@@ -3,6 +3,7 @@ import './App.css';
 import NaviBar from "./components/navibar";
 import Tile1 from "./components/tile1";
 import Tile2 from "./components/tile2";
+import Tile3 from "./components/tile3";
 import React, { Component } from "react";
 import { Routes, Route, NavLink, BrowserRouter } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
